@@ -7,13 +7,17 @@
 
 ## 🛠️ Tecnologías que he utilizado
 
-- 📝 **Lenguajes:**  
+- 📝 **Lenguajes de programación:**  
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
   ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+
+- 🌐 **Tecnologías Web:** 
+  ![HTML5](https://img.shields.io/badge/HTML5-Marcado-E34F26?logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-Estilos-1572B6?logo=css3&logoColor=white)
 
 - ⚙️ **Frameworks y Librerías:**  
   ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
@@ -28,7 +32,6 @@
 - 💾 **Bases de Datos:**  
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 
 - 📊 **Business Intelligence y Datos:** 
   ![OLTP](https://img.shields.io/badge/OLTP-Transaccional-blue)
@@ -55,7 +58,7 @@ Soy estudiante de Ingeniería Informática en mi ultimo semestre, con interés e
 - 🎓 **Sistema de Tutorías Universitarias:** API REST para gestión de tutorías académicas.
 - 📊 **Business Intelligence Project:** solución BI con PostgreSQL, ETL y Data Warehouse.
 - 🎮 **Videojuegos en Unity:** prototipos de juegos por turnos y multijugador.
-- 
+- 🧩 **UMBRAL:** plataforma distribuida con microservicios en .NET, autenticación con Keycloak, API Gateway YARP, frontend React y app móvil.
 
 ---
 
