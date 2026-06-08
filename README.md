@@ -26,8 +26,9 @@
   ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
-- 🔧 **Monitoreo:**  
+- 🔧 **Monitoreo y automatización:**  
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+  ![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?logo=n8n&logoColor=white)
 
 - 💾 **Bases de Datos:**  
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
