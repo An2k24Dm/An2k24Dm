@@ -1,11 +1,11 @@
 # ¡Hola, me llamo Angelo Di Martino!
 
-🎓 Soy estudiante de Ingeniería Informática en la UCAB  
-💻 Interesado por el desarrollo de software y la programación web  
+Soy estudiante de Ingeniería Informática en la UCAB  
+Interesado por el desarrollo de software y la programación web  
 
 ---
 
-## 🛠️ Tecnologías que he utilizado
+## Tecnologías que he utilizado
 
 - 📝 **Lenguajes de programación:**  
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -47,13 +47,13 @@
   
 ---
 
-## 📌 Sobre mí
+## Sobre mí
 
 Soy estudiante de Ingeniería Informática en mi ultimo semestre, con interés en el desarrollo backend, frontend, bases de datos relacionales y no relacionales, y arquitectura de software. Me gusta construir proyectos prácticos que integren frontend, backend, bases de datos y buenas prácticas de desarrollo.
 
 ---
 
-## 📂 Algunos proyectos
+## Algunos proyectos
 
 - ✈️ **UcabAir:** sistema fullstack para gestión de fabricación y ensamblaje de aviones.
 - 🎓 **Sistema de Tutorías Universitarias:** API REST para gestión de tutorías académicas.
@@ -63,7 +63,7 @@ Soy estudiante de Ingeniería Informática en mi ultimo semestre, con interés e
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 ![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
